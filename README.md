@@ -6,6 +6,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `git clone https://github.com/tung910/random-user.git`
+
+and
+
+### `npm install` or if you use yarn then `yarn install`
+
+Do so to install the packages included in the `package.json`
+
 ### `npm start`
 
 Runs the app in the development mode.\
